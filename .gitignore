@@ -126,4 +126,9 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+
 .pyre/
+
+new_user_credentials.csv
+**/.DS_Store
+
