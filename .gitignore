@@ -133,5 +133,4 @@ new_user_credentials.csv
 **/.DS_Store
 test.rb
 config.py
-
-
+command.sh
